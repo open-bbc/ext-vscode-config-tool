@@ -20,7 +20,7 @@
   "qna": "https://github.com/open-bbc/ext-vscode-config-tool/issues",
   "homepage": "https://github.com/open-bbc/ext-vscode-config-tool#readme",
   "engines": {
-    "vscode": "^1.125.0"
+    "vscode": "^1.85.0"
   },
   "categories": [
     "Other"
@@ -175,7 +175,7 @@
     "@types/mocha": "^10.0.10",
     "@types/node": "26.x",
     "@types/sinon": "^22.0.0",
-    "@types/vscode": "^1.125.0",
+    "@types/vscode": "1.85.0",
     "@typescript-eslint/eslint-plugin": "^8.63.0",
     "@typescript-eslint/parser": "^8.31.1",
     "@vscode/test-cli": "^0.0.15",

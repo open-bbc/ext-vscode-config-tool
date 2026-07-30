@@ -157,7 +157,7 @@ The status bar shows the current server with icons, background colors, and detai
 
 ## Requirements
 
-- VS Code 1.125.0 or higher
+- VS Code 1.85.0 or higher
 - Network access to the Spring Boot Config Server
 
 ## Privacy

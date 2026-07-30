@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/open-bbc/ext-vscode-config-tool/compare/v1.6.1...v1.6.2) (2026-07-30)
+
+
+### Bug Fixes
+
+* lower minimum VS Code version to 1.85.0 ([2af75be](https://github.com/open-bbc/ext-vscode-config-tool/commit/2af75beae40d55ae124e4f0de152f5d3c4aa53e3))
+
 ## [1.6.1](https://github.com/open-bbc/ext-vscode-config-tool/compare/v1.6.0...v1.6.1) (2026-07-22)
 
 
